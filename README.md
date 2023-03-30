@@ -57,7 +57,7 @@ struct Oleksii {
       </td>
 	<td width="25%" align="center">
         <span>Xcode</span><br><br><br>
-        <img height="64px" src="https://ih1.redbubble.net/image.2394931081.9268/poster,840x830,f8f8f8-pad,1000x1000,f8f8f8.jpg">
+        <img height="64px" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png">
       </td>
       <td width="25%" align="center">
         <span>sketch</span><br><br><br>
