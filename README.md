@@ -52,20 +52,20 @@ struct Oleksii {
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
+        <span>swift</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/swift.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+	<td width="25%" align="center">
+        <span>Xcode</span><br><br><br>
+        <img height="64px" src="https://ih1.redbubble.net/image.2394931081.9268/poster,840x830,f8f8f8-pad,1000x1000,f8f8f8.jpg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <span>sketch</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sketch.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span>Postman</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postman-icon.svg">
       </td>
     </tr>
   </tbody>
