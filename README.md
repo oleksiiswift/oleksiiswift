@@ -1,6 +1,7 @@
 ### Hello There 👨🏻‍💻⚔️
 
-[Untitled.png](Untitled.png)
+<img align='center' src="Untitled.png">
+
 
 <!--
 **oleksiiswift/oleksiiswift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
