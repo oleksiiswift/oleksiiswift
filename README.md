@@ -44,8 +44,8 @@ struct Oleksii {
     var misc: [String] = ["AdMob", "Firebase", "Firebase Auth", "Amazon S3"]
     var challenge: String = "I work hard as an amateur runner to be able to run a marathon"
 }
+```
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
 
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
