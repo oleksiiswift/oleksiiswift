@@ -72,6 +72,7 @@ struct Oleksii {
 </table>
 
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)[![forthebadge](i-have-a-starlink-📡.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
+[![forthebadge](i-have-a-starlink-📡.svg)](https://forthebadge.com)
 
 
