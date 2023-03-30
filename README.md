@@ -1,7 +1,6 @@
-### Hello There 👨🏻‍💻⚔️
+### Hello There 👨🏻‍💻⚔️🇺🇦
 
 <img align='center' src="Untitled.png">
-
 
 <!--
 **oleksiiswift/oleksiiswift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,49 +21,31 @@ Here are some ideas to get you started:
 struct Oleksii {
 	var email: String = "oleksii.codingkey@gmail.com"
 	var linkedin: String = "linkedin.com/in/oleksiisorochan"
-    var code: [String] = ["Swift", "Objective-C"]
-    
-    
-    
-    
-    var askMeAbout: [String] = ["iOS development", "mobile apps", "web development", "technology"]
-    var technologies: [String: [String]] = [
-        "mobileApp": ["UIKit", "SwiftUI"],
-        "backEnd": ["Node.js", "Express", "MongoDB"],
-        "databases": ["MySQL", "SQLite"],
-        "misc": ["Firebase", "Alamofire"]
+    	var code: [String] = ["Swift", "Objective-C"]
+	var location: CLLocation = CLLocation(latitude: 50.44425167425206, longitude: 30.496931776896034)
+    	var interests: [String] = ["Coding", "Photography", "Running", "Apple"]
+	var mobile: [String] = ["IOS"]
+    	var technologies: [String: [String]] = [
+        	"ui": ["UIKit"],
+        	"databases": ["Core Data", "Realm", "UserDefaults", "Keychain"],
+		"networking": ["RESTful APIs", "URLSession", "Alamofire", "ObjectMapper"],
+		"multithreading": ["Grand Central Dispatch", "Operation Queues", "Concurrency", "Async/Await"],
+		"inAppPurchases": ["StoreKit2", "StoreKit", "SwiftyStoreKit"],
+	        "other": ["MapKit",
+			  "Core Location",
+			  "AVFoundation",
+			  "Core Animation",
+			  "Photos Framework",
+			  "Core Telephony",
+			  "CallKit",
+			  "Contacts Framework"],
+		"notification": ["Push Notification Service", "Local Notifications", "User Notifications Framework"],		 
     ]
-    var architecture: [String] = ["MVC", "MVVM", "VIPER"]
-    var funFact: String = "Debugging is like being a detective in a crime movie where you are also the murderer."
+    var misc: [String] = ["AdMob", "Firebase", "Firebase Auth", "Amazon S3"]
+    var challenge: String = "I work hard as an amateur runner to be able to run a marathon"
 }
 
 
-```
 
 
-<!--
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
--->
+
